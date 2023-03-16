@@ -39,7 +39,6 @@ public class Buku {
         System.out.printf("Jumlah Halaman: %s hal.\n", jumlahHalaman);
         System.out.printf("ISBN          : %s\n", isbn);
         System.out.printf("Jenis Buku    : %s\n", jenisBuku);
-        
     }
 
 }
