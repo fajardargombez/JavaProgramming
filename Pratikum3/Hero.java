@@ -1,4 +1,3 @@
-
 class Hero{
     //Attribute
     private String name;
